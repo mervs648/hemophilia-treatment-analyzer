@@ -1,5 +1,5 @@
 # hemophilia-treatment-analyzer
-A Python-based decision support tool for hemophilia patient management and cost optimization# Hemophilia Patient Treatment & Cost Analyzer
+A Python-based decision support tool for hemophilia patient management and cost optimization.
 
 This Python project is a decision-support tool designed to analyze hemophilia patient data, classify disease severity, and optimize medication dosages.
 
